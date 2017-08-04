@@ -1,0 +1,47 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Temp.meta
+Library/
+*temp
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Assets/AssetStore/NGUI/Editor/x86/FreeType.dll.meta
+Assets/AssetStore/NGUI/Editor/x86_64.meta
+Assets/AssetStore/NGUI/Editor/x86_64/FreeType.dll.meta
+Assets/DataList/CSVDB.meta
+Assets/DataList/CSVDB/Editor.meta
+Assets/DataList/CSVDB/Editor/ImageEffects.meta
+Assets/DataList/excel.meta
+Assets/DataList/excel/PaxHeader.meta
+Assets/DataList/local.meta
+Assets/DataList/local/PaxHeader.meta
+Assets/Resources/Textures.meta
+Assets/Resources/Ui.meta
+Assets/UnityVS.meta
+Assets/UnityVS/Editor.meta
+Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll.meta
+Assets/UnityVS/Editor/SyntaxTree.VisualStudio.Unity.Messaging.dll.meta
